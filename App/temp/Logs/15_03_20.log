@@ -1,0 +1,1527 @@
+[ 2015-03-20T10:33:38+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001001s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-03-20T11:25:49+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.001001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.000000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T11:25:53+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/manage
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T11:25:53+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.004001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T11:25:53+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T11:25:55+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify/0.5916421457659453
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T11:25:55+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify/0.2220953102223575
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T11:25:55+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify/0.47566797281615436
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T11:25:56+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify/0.25113418395631015
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T11:25:56+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify/0.9894491138402373
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T11:25:56+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify/0.6888297526165843
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T11:25:56+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify/0.8322975628543645
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T11:25:56+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify/0.38992261583916843
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T11:25:57+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify/0.2672827299684286
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T11:25:57+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify/0.038549048360437155
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T11:25:57+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify/0.016472352435812354
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T11:25:57+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify/0.8607331016100943
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T11:25:57+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify/0.021093789720907807
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T11:25:57+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify/0.44708005362190306
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T11:25:58+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify/0.6285220487043262
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T11:25:58+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify/0.14966470701619983
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T11:25:58+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify/0.5103163637686521
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T12:05:39+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T12:05:42+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:login
+
+[ 2015-03-20T12:05:47+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/manage
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T12:05:47+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T12:05:48+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T12:05:49+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify/0.7701187860220671
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T12:05:50+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify/0.21593811782076955
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T12:05:55+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T12:05:57+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T12:05:57+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T12:05:57+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T12:05:58+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T12:06:04+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T12:06:05+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T12:06:05+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T12:06:05+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T12:06:06+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T12:06:06+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T12:06:06+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T12:06:06+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T12:06:06+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T12:06:06+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T12:06:07+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T12:06:07+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T12:06:07+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T12:06:07+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T12:06:07+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T12:06:08+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T12:06:08+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T12:06:08+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T12:06:08+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T12:06:08+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T12:06:08+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T13:59:27+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T13:59:28+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T14:29:37+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T14:33:57+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T14:33:57+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T14:34:03+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T14:39:43+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T14:39:44+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T14:39:44+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T14:39:45+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T14:39:45+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T14:39:45+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T14:39:45+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T14:40:52+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:40:54+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:40:55+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:40:55+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:40:56+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:40:56+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:40:57+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:40:57+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:40:57+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:40:58+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:40:58+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:40:59+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:40:59+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:40:59+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:41:00+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:41:00+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:41:01+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:41:01+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:41:01+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:41:11+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:41:12+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:41:12+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:41:13+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:41:13+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:41:15+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:41:15+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T14:41:16+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:00:43+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:00:44+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:00:44+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:00:44+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:00:45+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:00:45+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:00:45+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:00:46+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:00:46+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:00:47+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:00:47+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:00:47+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:00:47+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:01:09+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:01:11+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:01:11+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:01:11+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:01:11+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:01:12+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:01:12+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:01:12+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:01:12+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:01:12+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:01:13+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:01:13+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:01:13+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:01:16+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:01:16+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:01:16+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:01:17+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:01:17+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:01:17+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:01:59+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:02:00+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:02:01+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:02:02+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:02:02+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:02:02+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:02:03+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:02:03+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:02:03+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:02:03+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:02:03+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:02:04+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:02:04+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:02:04+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:02:04+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:02:04+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:02:04+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:02:05+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:02:05+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:02:05+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:02:06+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:02:26+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:03:04+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:03:04+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:03:05+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:03:05+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:03:45+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/code
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+NOTIC: [2] imagettftext() [<a href='function.imagettftext'>function.imagettftext</a>]: Invalid font filename D:\phpStudy\WWW\ThinkPHP_3.1.3_full\ThinkPHP\Extend\Library\ORG\Util\Image2.class.php 第 128 行.
+
+[ 2015-03-20T15:04:01+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T15:04:05+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T15:04:06+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T15:04:08+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T15:04:08+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T15:04:09+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-03-20T15:04:09+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-03-20T15:04:10+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-03-20T15:04:10+08:00 ] 127.0.0.1 /ThinkPHP_3.1.3_full/Manage/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+

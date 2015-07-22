@@ -37,8 +37,8 @@ class LoginAction extends Action{
 	}
 
 	Public function verify(){
-    	import('ORG.Util.Image');
-    	Image::buildImageVerify(1);
+    		import('ORG.Util.Image');
+    		Image::buildImageVerify(1);
 	}
 
 	public function code(){
